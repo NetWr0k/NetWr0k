@@ -18,9 +18,9 @@
 
 I'm a casual developer using GitHub to open-source my side projects, collaborate on cool ideas, and keep track of my personal learning playground. 
 
-<img src="/imgs/code.png" width="15"/> Keeping my repositories dark-themed and my git history clean.
-<img src="/imgs/library.png" width="15"/> Building tools that make life a little bit easier (or just more fun).
-<img src="/imgs/chess.png" width="15"/> Hardcore chess player (dont try me)
+<img src="/imgs/Code.png" width="15"/> <em><b> Keeping my repositories dark-themed and my git history clean. </b></em> <br/>
+<img src="/imgs/library.png" width="15"/> <em><b> Building tools that make life a little bit easier (or just more fun). </b></em> <br/>
+<img src="/imgs/chess.png" width="15"/> <em><b> Hardcore chess player (dont try me). </b></em> <br/>
   </div>
 </div>
 
