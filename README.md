@@ -14,8 +14,13 @@
 <div>
   <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="210" align="left" style="margin-right: 15px;" alt="Avatar Left">
   <div align="justify">
-    <h3>Hey there! I’m Karthick</h3>
-    I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.
+### 👋 Hi, I'm Maizen
+
+I'm a casual developer using GitHub to open-source my side projects, collaborate on cool ideas, and keep track of my personal learning playground. 
+
+<img src="/imgs/code.png" width="15"/> Keeping my repositories dark-themed and my git history clean.
+<img src="/imgs/library.png" width="15"/> Building tools that make life a little bit easier (or just more fun).
+<img src="/imgs/chess.png" width="15"/> Hardcore chess player (dont try me)
   </div>
 </div>
 
