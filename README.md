@@ -58,8 +58,6 @@
 <div align="center">
   <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%" alt="Footer Image 1">
   <br><br>
-  <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%" alt="Footer Image 2">
-  <br><br>
 
   <!-- Cleaned up layout for Tech Stack table -->
   <table align="center" style="background: transparent; border: none;">
