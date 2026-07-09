@@ -28,9 +28,9 @@ I'm a casual developer using GitHub to open-source my side projects, collaborate
 <hr style="border: 1px solid #333; margin: 15px 0;">
 
 <div>
-  <img src="/imgs/chess-kinf.png" width="170" align="right" style="margin-left: 15px;" alt="Avatar Right">
+  <img src="/imgs/chess-king.png" width="170" align="right" style="margin-left: 15px;" alt="Avatar Right">
   <div align="justify">
-    <h3>Top Projects (built to avoid manual labor)</h3>
+    <h3>Other hobbies</h3>
     <a href="https://github.com/Synaptara/File-ghost"><img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br><br>
     <a href="https://github.com/Synaptara/Gen-Ghost_v1"><img src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than Me<br><br>
     <a href="https://github.com/Synaptara/QNDOCS"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
