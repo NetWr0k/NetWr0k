@@ -1,7 +1,3 @@
-<a href="https://github.com/Synaptara">
-  <img src="https://i.postimg.cc/vHsQ0wRw/Gemini-Generated-Image-yc8ulhyc8ulhyc8u-(1).png" width="100%" alt="Synaptara Banner"/>
-</a>
-
 <div align="center">
   <a href="https://github.com/Synaptara?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://shields.io" /></a>
   &nbsp;
@@ -46,8 +42,6 @@
    
   <a href="https://github.com/Synaptara"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/karthick-aidev/"><img src="https://shields.io" alt="LinkedIn"></a>
-  &nbsp;
   <a href="mailto:karthick.aidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   &nbsp;
   <a href="https://drive.google.com/file/d/1W8HDDCPTHcm6hw8zbzDeKoxIxoKsz_VN/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white" alt="Resume"></a>
@@ -63,9 +57,6 @@
 
 <div align="center">
   <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%" alt="Footer Image 1">
-  <br><br>
-  <!-- Fixed GitHub snake rendering path to pull raw content file -->
-  <img src="https://githubusercontent.com" width="100%" alt="Snake Animation">
   <br><br>
   <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%" alt="Footer Image 2">
   <br><br>
