@@ -14,7 +14,7 @@
 <div>
   <img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="210" align="left" style="margin-right: 15px;" alt="Avatar Left">
   <div align="justify">
-### 👋 Hi, I'm Maizen
+ Hello There! <em><b> I'm Maizen </b></em>
 
 I'm a casual developer using GitHub to open-source my side projects, collaborate on cool ideas, and keep track of my personal learning playground. 
 
