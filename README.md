@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <h2>Know About Me</h2>
+  <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
 </div>
 
 <!-- Layout separation for clean profile rendering -->
