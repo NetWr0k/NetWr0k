@@ -1,111 +1,164 @@
 <div align="center">
-
-<a href="https://github.com/Synaptara?tab=repositories">
-<img src="https://shields.io" alt="Stars">
-</a>
-&nbsp;
-<a href="https://github.com/Synaptara?tab=repositories">
-<img src="https://shields.io+" alt="Forks">
-</a>
-&nbsp;
-<a href="https://github.com/Synaptara?tab=followers">
-<img src="https://shields.io" alt="Followers">
-</a>
-
+  <a href="https://github.com/Synaptara?tab=repositories">
+    <img alt="Stars" title="Stars Profile" src="https://shields.io" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Synaptara?tab=repositories">
+    <img alt="Forks" title="Forks Repository" src="https://shields.io+" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Synaptara?tab=followers">
+    <img alt="Followers" title="Github Followers" src="https://shields.io" />
+  </a>
 </div>
 
----
-
-# <img src="/imgs/title1.png" width="24"> About Me
-
-<table>
-<tr>
-<td width="220" align="center">
-
-<img src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png" width="200">
-
-</td>
-
-<td>
-
-Hello there! **I'm Maizen.**
-
-I'm a casual developer using GitHub to open-source side projects, collaborate on interesting ideas, and document my learning journey.
-
-- <img src="/imgs/Code.png" width="15"> Keeping my repositories dark-themed and my Git history clean.
-- <img src="/imgs/library.png" width="15"> Building tools that make life a little easier (or just more fun).
-- <img src="/imgs/chess.png" width="15"> Hardcore chess player. *(Don't try me.)*
-
-</td>
-</tr>
-</table>
-
----
-
-# ♟ Featured Projects
-
-<table>
-<tr>
-<td>
-
-<a href="https://github.com/Synaptara/File-ghost">
-<img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-Secure file sharing because some code deserves to self-destruct gracefully.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<a href="https://github.com/Synaptara/Gen-Ghost_v1">
-<img src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-A Discord bot that manages my server better than I do.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<a href="https://github.com/Synaptara/QNDOCS">
-<img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-A RAG-based AI that reads text files so I don't have to.
-
-</td>
-</tr>
-</table>
-
----
+<br>
 
 <div align="center">
+  <h2>
+    <img src="/imgs/title1.png" width="25" />
+    <strong>About me</strong>
+  </h2>
 
-<a href="https://github.com/NetWr0k">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+  <!-- Layout separation for clean profile rendering -->
+  <div>
+    <img
+      src="https://i.postimg.cc/wj3jSKVc/52c113261b11744f4723bd107c4c40d7-removebg-preview.png"
+      width="210"
+      align="left"
+      style="margin-right: 15px;"
+      alt="Avatar Left"
+    />
 
-<a href="mailto:maizen1708@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+    <div align="justify">
+      Hello There!
+      <em><b>I'm Maizen</b></em>
 
-<a href="https://www.chess.com/member/chathedral">
-<img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white">
-</a>
+      I'm a casual developer using GitHub to open-source my side projects,
+      collaborate on cool ideas, and keep track of my personal learning
+      playground.
 
+      <br>
+
+      <img src="/imgs/Code.png" width="15" />
+      <em><b>Keeping my repositories dark-themed and my git history clean.</b></em>
+
+      <br>
+
+      <img src="/imgs/library.png" width="15" />
+      <em><b>Building tools that make life a little bit easier (or just more fun).</b></em>
+
+      <br>
+
+      <img src="/imgs/chess.png" width="15" />
+      <em><b>Hardcore chess player (dont try me).</b></em>
+    </div>
+  </div>
+
+  <br clear="left" />
+
+  <hr style="border: 1px solid #333; margin: 15px 0;">
+
+  <div>
+    <img
+      src="/imgs/chess-king.png"
+      width="220"
+      align="right"
+      style="margin-left: 22px;"
+      alt="Avatar Right"
+    />
+
+    <div align="justify">
+      <h3>Other hobbies</h3>
+
+      <a href="https://github.com/Synaptara/File-ghost">
+        <img
+          src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white"
+          valign="middle"
+        >
+      </a>
+      &nbsp;
+      Secure file sharing, because some code needs to self-destruct gracefully.
+
+      <br><br>
+
+      <a href="https://github.com/Synaptara/Gen-Ghost_v1">
+        <img
+          src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white"
+          valign="middle"
+        >
+      </a>
+      &nbsp;
+      A Discord bot that manages my server better than Me
+
+      <br><br>
+
+      <a href="https://github.com/Synaptara/QNDOCS">
+        <img
+          src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white"
+          valign="middle"
+        >
+      </a>
+      &nbsp;
+      RAG-based AI to read text files for me, because reading is hard.
+    </div>
+  </div>
+
+  <br clear="right" />
+
+  <hr style="border: 1px solid #333; margin: 15px 0;">
+
+  <div align="center">
+    <a href="https://github.com/NetWr0k">
+      <img
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
+        alt="GitHub"
+      >
+    </a>
+
+    &nbsp;
+
+    <a href="maizen1708@gmail.com">
+      <img
+        src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="Gmail"
+      >
+    </a>
+
+    &nbsp;
+
+    <a href="https://www.chess.com/member/chathedral" target="_blank">
+      <img
+        src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white"
+      />
+    </a>
+  </div>
+
+  <br>
+
+  > Code is never finished. It only becomes slightly less terrible over time.
+
+  <br>
+
+  <!-- Cleaned up layout for Tech Stack table -->
+  <table align="center" style="background: transparent; border: none;">
+    <tr>
+      <td
+        align="right"
+        valign="middle"
+        style="padding-right: 20px; border: none;"
+      >
+        <strong>Frontend</strong>
+      </td>
+
+      <td align="left" valign="middle" style="border: none;">
+        <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white">
+      </td>
+    </tr>
+  </table>
 </div>
-
-> Code is never finished. It only becomes slightly less terrible over time.
-
----
-
-# Tech Stack
-
-| Frontend |
-|-----------|
-| <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white"> |
