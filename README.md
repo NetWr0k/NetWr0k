@@ -47,7 +47,7 @@ I'm a casual developer using GitHub to open-source my side projects, collaborate
   &nbsp;
   <a href="maizen1708@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   &nbsp;
- <a href="https://www.chess.com/member/glorffindel" target="_blank">
+ <a href="https://www.chess.com/member/chathedral" target="_blank">
     <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
   </a>
 </p>
@@ -62,8 +62,6 @@ I'm a casual developer using GitHub to open-source my side projects, collaborate
 <br>
 
 <div align="center">
-  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%" alt="Footer Image 1">
-  <br><br>
 
   <!-- Cleaned up layout for Tech Stack table -->
   <table align="center" style="background: transparent; border: none;">
