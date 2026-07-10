@@ -41,8 +41,7 @@ I'm a casual developer using GitHub to open-source my side projects, collaborate
 <hr style="border: 1px solid #333; margin: 15px 0;">
 
 <div align="center">
-  <img src="https://i.postimg.cc/TYF27Fn7/Whats-App-Image-2026-03-05-at-11-02-19-PM.jpg" width="100%" alt="Divider Image">
-  <br><br>
+
    
   <a href="https://github.com/NetWr0k"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   &nbsp;
