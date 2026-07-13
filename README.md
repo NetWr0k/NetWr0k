@@ -22,10 +22,10 @@ I'm a casual developer using GitHub to open-source my side projects, collaborate
 <div>
   <img src="/imgs/chess-king.png" width="220" align="right" style="margin-left: 22px;" alt="Avatar Right">
   <div align="justify">
-    <h3>Other hobbies</h3>
-    <a href="https://github.com/Synaptara/File-ghost"><img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br><br>
-    <a href="https://github.com/Synaptara/Gen-Ghost_v1"><img src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than Me<br><br>
-    <a href="https://github.com/Synaptara/QNDOCS"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
+    <h3>Projects I'm working on</h3>
+    <a href="https://github.com/NetWr0k/literPurple"><img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br><br>
+    <a href="https://github.com/NetWr0k/IPAForge"><img src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than Me<br><br>
+    <a href="https://github.com/NetWr0k"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
   </div>
 </div>
 
