@@ -32,6 +32,7 @@ I'm a casual developer using GitHub to open-source my side projects, collaborate
 <br clear="right"/>
 <hr style="border: 1px solid #333; margin: 15px 0;">
 
+<img src="/imgs/contact.png" width="220" align="right" style="margin-left: 15px;" alt="Avatar Left">
 <div align="center">
 
    
