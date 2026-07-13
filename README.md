@@ -56,7 +56,7 @@ I'm a casual developer using GitHub to open-source my side projects, collaborate
 </div>
 
   <!-- Cleaned up layout for Tech Stack table -->
-  <table align="center" style="background: transparent; border: none;">
+  <table align="left" style="background: transparent; border: none;">
     <tr>
       <td align="right" valign="middle" style="padding-right: 20px; border: none;">
         <strong>Frontend</strong>
