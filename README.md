@@ -33,9 +33,8 @@ I'm a casual developer using GitHub to open-source my side projects, collaborate
 <hr style="border: 1px solid #333; margin: 15px 0;">
 
   <img src="/imgs/contact.png" width="210" align="left" style="margin-right: 15px;" alt="Avatar Left">
-<div align="center">
-
-   
+</div>
+  
   <a href="https://github.com/NetWr0k"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   &nbsp;
   <a href="maizen1708@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -53,6 +52,9 @@ I'm a casual developer using GitHub to open-source my side projects, collaborate
 
 
 <br>
+
+<br clear="left"/>
+<hr style="border: 1px solid #333; margin: 15px 0;">
 
 <div align="center">
 
