@@ -53,10 +53,13 @@ I'm a casual developer using GitHub to open-source my side projects, collaborate
 
 <br>
 
-</div>
+<br clear="left"/>
+<hr style="border: 1px solid #333; margin: 15px 0;">
+
+<div align="center">
 
   <!-- Cleaned up layout for Tech Stack table -->
-  <table align="left" style="background: transparent; border: none;">
+  <table align="center" style="background: transparent; border: none;">
     <tr>
       <td align="right" valign="middle" style="padding-right: 20px; border: none;">
         <strong>Frontend</strong>
