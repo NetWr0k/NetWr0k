@@ -50,6 +50,9 @@ I'm a casual developer using GitHub to open-source my side projects, collaborate
 
 > Code is never finished. It only becomes slightly less terrible over time.
 
+<a href="https://www.chess.com/member/chathedral">
+  <img src="https://chess-stats-api.herokuapp.com/?username=chathedral&bg=transparent&theme=dark" alt="Chess.com Stats" />
+</a>
 
 <br>
 
