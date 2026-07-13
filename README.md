@@ -1,11 +1,3 @@
-<div align="center">
-  <a href="https://github.com/NetWr0k?tab=repositories"><img alt="Stars" title="Stars Profile" src="https://shields.io" /></a>
-  &nbsp;
-  <a href="https://github.com/NetWr0k?tab=repositories"><img alt="Forks" title="Forks Repository" src="https://shields.io+" /></a>
-  &nbsp;
-  <a href="https://github.com/NetWr0k?tab=followers"><img alt="Followers" title="Github Followers" src="https://shields.io" /></a>
-</div>
-<br>
 
 <div align="center">
   <h2><img src="/imgs/title1.png" width="25"/> <strong>About me</strong></h2>
