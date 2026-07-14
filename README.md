@@ -24,8 +24,8 @@ I'm a casual developer using GitHub to open-source my side projects, collaborate
   <div align="justify">
     <h3>Projects I'm working on</h3>
     <a href="https://github.com/NetWr0k/literPurple"><img src="https://img.shields.io/badge/LiterPurple-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; An desktop tool to read/write SysCFG on A12/A13 devices.<br><br>
-    <a href="https://github.com/NetWr0k/IPAForge"><img src="https://img.shields.io/badge/IPAForge-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A CLI tool for optimizing IPA assets.<br><br>
-    <a href="https://github.com/NetWr0k"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
+    <a href="https://github.com/NetWr0k/ipaopt"><img src="https://img.shields.io/badge/IPAForge-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A CLI tool for optimizing IPA assets.<br><br>
+    <a href="https://github.com/NetWr0k"><img src="https://img.shields.io/badge/GenreSync-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; automatically organizes your Spotify Liked Songs, every time you like a new track.
   </div>
 </div>
 
